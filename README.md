@@ -1,10 +1,10 @@
 # 📊 # Customer-Behavior-Analysis-Dashboard
 
-A comprehensive data visualization and analysis tool designed to provide actionable insights into **[Primary Objective, e.g., Sales Performance / Financial Health / Marketing ROI]**.
+A comprehensive data visualization and analysis tool designed to provide actionable insights into **Customer Behavior Analysis Dashboard**.
 
 ## 🚀 Overview
 
-This Excel-based dashboard transforms raw data from **[Data Source]** into interactive visuals, enabling stakeholders to monitor key performance indicators (KPIs) and identify trends at a glance.
+This Excel-based dashboard transforms raw data from **Data Source** into interactive visuals, enabling stakeholders to monitor key performance indicators (KPIs) and identify trends at a glance.
 
 ## 🛠 Key Features
 
